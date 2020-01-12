@@ -11,5 +11,6 @@ Simply install requirements:
 
 and run lanes.py
 
+![alt text](https://github.com/shivekchhabra/lane_detection/blob/master/output.png)
 
 
